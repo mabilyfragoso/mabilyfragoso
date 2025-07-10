@@ -8,8 +8,8 @@ Olá! Bem-vinda ao meu cantinho no GitHub! Sou **Amabile**, estudante de **Siste
 
 Estou em constante aprendizado e explorando diversas tecnologias e metodologias para construir uma base sólida em Sistemas de Informação:
 
-* ╰┈➤**Linguagens de Programação:** [Python, JavaScript, Java, C++]
-* ╰┈➤**Conceitos & Ferramentas:** Lógica de Programação, Estrutura de Dados, Bancos de Dados Relacionais (Ex: SQL), Git & GitHub, Pacote Office (se relevante), HTML/CSS, LaTeX.
+* ╰┈➤**Linguagens de Programação:** Python, JavaScript, Java, C++
+* ╰┈➤**Conceitos & Ferramentas:** Lógica de Programação, Pacote Office, HTML/CSS, LaTeX.
 * ╰┈➤**Interesses Atuais:** Desenvolvimento Web Frontend, Análise de Dados, UX/UI, Inteligência Artificial, Redes.
 
 ## 🎧ྀི Contato e Conexões ྀི🎧
