@@ -1,20 +1,22 @@
-# 𝜗ৎ Perfil | Mabilyfragoso 𝜗ৎ
+# 𝜗ৎ Profile | Mabilyfragoso 𝜗ৎ
 
 <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/9ff5ab27-fc8d-47ff-8a84-8d647bd7df39" />
 
-Olá! Bem-vind ao meu cantinho no GitHub! Sou **Amabile**, estudante de **Sistemas de Informação**.
+Hello! Welcome to my little corner on GitHub! I'm **Amabile**, a **Systems Information** student.
 
-## ⋆.⌨️˚༘⋆ Habilidades Técnicas e Ferramentas ⋆.⌨️˚༘⋆
+---
 
-Estou em constante aprendizado e explorando diversas tecnologias e metodologias para construir uma base sólida em Sistemas de Informação:
+## ⋆.⌨️˚༘⋆ Technical Skills & Tools ⋆.⌨️˚༘⋆
 
-* ╰┈➤**Linguagens de Programação:** Python, JavaScript, Java, C++
-* ╰┈➤**Conceitos & Ferramentas:** Lógica de Programação, Pacote Office, HTML/CSS, LaTeX.
-* ╰┈➤**Interesses Atuais:** Desenvolvimento Web Frontend, Análise de Dados, UX/UI, Inteligência Artificial, Redes.
+I'm constantly learning and exploring various technologies and methodologies to build a solid foundation in Information Systems:
 
-## 🎧ྀི Contato e Conexões ྀི🎧
+* ╰┈➤**Programming Languages:** Python, JavaScript, Java, C++
+* ╰┈➤**Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX.
+* ╰┈➤**Current Interests:** Frontend Web Development, Data Analysis, UX/UI, Artificial Intelligence, Networking.
 
-Adoraria me conectar e trocar ideias!
+---
+
+## 🎧ྀི Contact & Connections ྀི🎧
 
 * ╰┈➤**Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)
 * ╰┈➤**Email:** fragosoamabile2017@gmail.com
