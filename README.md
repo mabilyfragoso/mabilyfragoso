@@ -12,7 +12,7 @@ Estou em constante aprendizado e explorando diversas tecnologias e metodologias 
 * ╰┈➤**Conceitos & Ferramentas:** Lógica de Programação, Estrutura de Dados, Bancos de Dados Relacionais (Ex: SQL), Git & GitHub, Pacote Office (se relevante), HTML/CSS, LaTeX.
 * ╰┈➤**Interesses Atuais:** Desenvolvimento Web Frontend, Análise de Dados, UX/UI, Inteligência Artificial, Redes.
 
-## 💌 Contato e Conexões 💌
+## 🎧ྀི Contato e Conexões ྀི🎧
 
 Adoraria me conectar e trocar ideias!
 
