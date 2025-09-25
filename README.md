@@ -13,6 +13,13 @@
 
 💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒐𝒓𝒏𝒆𝒓 𝒐𝒏 𝑮𝒊𝒕𝑯𝒖𝒃!  
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
+<div align="center">
+
+### 🎧 Minha playlist favorita 🎧  
+
+<iframe style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator](https://open.spotify.com/playlist/2wgKRVwPIT9hFPSVOfhqjD?si=d40aae2e73524164)" width="70%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+</div>
 
 </div>
 
