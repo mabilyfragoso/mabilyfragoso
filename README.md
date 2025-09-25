@@ -11,7 +11,7 @@
 
 ![banner](https://github.com/user-attachments/assets/643868aa-3033-4e10-b52b-7c18362ca98a)
 
-💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒐𝒓𝒏𝒆𝒓 𝒐𝒏 𝑮𝒊𝒕𝑯𝒖𝒃!  
+💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆!  
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
