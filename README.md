@@ -7,16 +7,12 @@
 
 ---
 
-🌸 *"A tecnologia é melhor quando aproxima as pessoas"* 🌸
-
-</div>
+🌸 *"A tecnologia é melhor quando aproxima as pessoas"* 🌸  
 
 ![banner](https://github.com/user-attachments/assets/643868aa-3033-4e10-b52b-7c18362ca98a)
 
-<div align="center">
-
 💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒐𝒓𝒏𝒆𝒓 𝒐𝒏 𝑮𝒊𝒕𝑯𝒖𝒃!  
-Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨
+Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
 
@@ -28,7 +24,36 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 
 * 🎀 **Programming Languages:** Python, JavaScript, Java, C++  
 * 🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
-* ✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, Artificial Intelligence, Networking  
+* ✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, AI, Networking  
+
+---
+
+## ˚₊· ͟͟͞͞➳❥ Design & Creative Side  
+
+Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:  
+
+- 🎀 **Design Gráfico** (Canva, Photoshop básico, Figma)  
+- 🌸 **Identidade Visual** para projetos e eventos  
+- ✨ **Infográficos, tabelas e layouts fofos** para deixar o conteúdo acessível e agradável  
+
+### 🌷 Exemplinho de Tabela Fofa:  
+
+| 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
+|------------------|-----------------------|---------|
+| **Design**       | Canva · Figma · PS    | ★★★★☆  |
+| **Programação**  | Python · JS · Java    | ★★★☆☆  |
+| **Docs**         | LaTeX · Office Suite  | ★★★★☆  |
+
+---
+
+## ˚₊· ͟͟͞͞➳❥ Badges ✦  
+
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
+![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
 
 ---
 
@@ -37,8 +62,3 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 * 📖 **Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)  
 * 💌 **Email:** fragosoamabile2017@gmail.com  
 
-<div align="center">
-
-![divider](https://github.com/user-attachments/assets/0d131a24-cc63-4e3c-9df7-1518f10d2316)
-
-</div>
