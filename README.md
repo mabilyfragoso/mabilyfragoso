@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 𐙚 𝑴𝒂𝒃𝒊𝒍𝒚𝒇𝒓𝒂𝒈𝒐𝒔𝒐 𐙚 🎀  
+# 🎀 𐙚 Amabile Fragoso 𐙚 🎀  
 ### ˚ ༘♡ ⋆｡ Estudante de Sistemas de Informação ⋆｡♡ ༘ ˚
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&color=ff8da2&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
@@ -48,9 +48,7 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 
 ## ˚₊· ͟͟͞͞➳❥ Badges ✦  
 
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
-![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  ![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
 
 ---
