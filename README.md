@@ -15,14 +15,14 @@
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
-<div align="center">
+
 ## 🎧 O que estou ouvindo agora
 
 [![Spotify](https://novatorem-maby.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_ID_SPOTIFY)
 
 
 
-
+<div align="center">
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
 
 Estou sempre explorando e aprendendo novas tecnologias para construir uma base sólida em Sistemas de Informação:  
