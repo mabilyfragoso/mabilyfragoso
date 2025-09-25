@@ -15,21 +15,15 @@
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
-
 ---
 
-<div align="center">
+## ˚₊· ͟͟͞͞➳❥ 🎧 Minha música (Spotify)  
 
-## 🎧 Minha música (Spotify)  
+🌸 Sempre estudando e codando com música! Aqui está a minha playlist favorita:  
 
-### ♡ Playlist favorita ♡
+[![Spotify](https://img.shields.io/badge/Spotify-♡_Minha_Playlist-ff8da2?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-<!-- Substitua o src abaixo pelo embed da sua playlist/música/perfil -->
-<iframe style="border-radius:12px; margin-top:10px" 
-        src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M" 
-        width="70%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-</div>
+[![Minha Playlist](https://mosaic.scdn.co/640/ab67616d0000b2732f4da5f2cc8f7372c933bd86ab67616d0000b2734e04f30e1ef41c73f1f9c33fab67616d0000b27383c0cb4b4af149d1ff177bb0ab67616d0000b273cfcbcbdb21820860ffdf4e9b)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 ---
 
