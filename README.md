@@ -20,6 +20,6 @@ I'm constantly learning and exploring various technologies and methodologies to 
 
 * ╰┈➤**Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)
 * ╰┈➤**Email:** fragosoamabile2017@gmail.com
-* <img width="1200" height="400" alt="image"![b7f5eead99e2a1a2f677863dfc8cd058](https://github.com/user-attachments/assets/0d131a24-cc63-4e3c-9df7-1518f10d2316)
+* ![b7f5eead99e2a1a2f677863dfc8cd058](https://github.com/user-attachments/assets/0d131a24-cc63-4e3c-9df7-1518f10d2316)
 
-" />
+
