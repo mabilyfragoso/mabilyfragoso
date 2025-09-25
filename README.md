@@ -15,19 +15,13 @@
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
----
-
-## ˚₊· ͟͟͞͞➳❥ 🎧 Minha música (Spotify)  
-
-🌸 Sempre estudando e codando com música! Aqui está a minha playlist favorita:  
-
-[![Spotify](https://img.shields.io/badge/Spotify-♡_Minha_Playlist-ff8da2?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
-
-[![Minha Playlist](https://mosaic.scdn.co/640/ab67616d0000b2732f4da5f2cc8f7372c933bd86ab67616d0000b2734e04f30e1ef41c73f1f9c33fab67616d0000b27383c0cb4b4af149d1ff177bb0ab67616d0000b273cfcbcbdb21820860ffdf4e9b)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
-
----
-
 <div align="center">
+## 🎧 O que estou ouvindo agora
+
+[![Spotify](https://novatorem-maby.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_ID_SPOTIFY)
+
+
+
 
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
 
