@@ -3,7 +3,7 @@
 # 𐙚 Amabile Fragoso 𐙚   
 ### ˚ ༘♡ ⋆｡ Estudante de Sistemas de Informação ⋆｡♡ ༘ ˚
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&color=ff8da2&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&color=ff8da2&center=true&vCenter=true&width=600&lines=Dream+like+you%27re+free+%F0%9F%8C%B0;Shine+your+light+and+never+give+up;Keep+exploring+and+believe+in+yourself" alt="Typing SVG" />
 
 ---
 
@@ -15,6 +15,7 @@
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
+
 <div align="center">
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
 
