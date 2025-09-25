@@ -15,13 +15,6 @@
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
 
 </div>
-
-## 🎧 O que estou ouvindo agora
-
-[![Spotify](https://novatorem-maby.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_ID_SPOTIFY)
-
-
-
 <div align="center">
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
 
