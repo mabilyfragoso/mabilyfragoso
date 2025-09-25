@@ -13,7 +13,6 @@
 
 ## 🌙 Sobre Mim
 
-```yaml
 nome: "Mabily Fragoso"
 localização: "Brasil 🇧🇷"
 educação: "Sistemas de Informação"
