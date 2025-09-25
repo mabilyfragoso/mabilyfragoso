@@ -87,12 +87,3 @@ mailto:fragosoamabile2017@gmail.com
 http://lattes.cnpq.br/
 https://github.com/mabilyfragoso
 
-🌙 "Em constante evolução, sempre buscando novos desafios no universo da computação" 🌙
-Agora você tem um README.md completo em markdown para copiar e colar no seu GitHub! Ele tem:
-
-Visual coquette dark com cores douradas e marrons
-Badges personalizados
-Estatísticas do GitHub
-Seções organizadas sobre formação e experiência
-Emojis e formatação especial
-Links funcionais para contato
