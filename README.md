@@ -40,7 +40,7 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 
 | 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
 |------------------|-----------------------|---------|
-| **Design**       | Canva · Figma · PS    | ★★★★☆  |
+| **Design**       | Canva · Figma         | ★★★★☆  |
 | **Programação**  | Python · JS · Java    | ★★★☆☆  |
 | **Docs**         | LaTeX · Office Suite  | ★★★★☆  |
 
