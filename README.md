@@ -34,7 +34,7 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 
 Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:  
 
-🎀 **Design Gráfico** (Canva, Photoshop básico, Figma)  
+🎀 **Design Gráfico** (Canva, Figma)  
 🌸 **Identidade Visual** para projetos e eventos  
 ✨ **Infográficos, tabelas e layouts fofos** para deixar o conteúdo acessível e agradável  
 
