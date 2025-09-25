@@ -48,10 +48,8 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 
 ## ˚₊· ͟͟͞͞➳❥ Badges ✦  
 
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
 ![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
 
