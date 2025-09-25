@@ -17,7 +17,7 @@ Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por 
 </div>
 
 <div align="center">
-## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
+## Technical Skills & Tools
 
 Estou sempre explorando e aprendendo novas tecnologias para construir uma base sólida em Sistemas de Informação:  
 
