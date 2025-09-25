@@ -1,6 +1,6 @@
 <div align="center">
 
-#  𐙚 Amabile Fragoso 𐙚   
+# 𐙚 Amabile Fragoso 𐙚   
 ### ˚ ༘♡ ⋆｡ Estudante de Sistemas de Informação ⋆｡♡ ༘ ˚
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&color=ff8da2&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
@@ -18,13 +18,15 @@ Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por 
 
 ---
 
+<div align="center">
+
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools  
 
 Estou sempre explorando e aprendendo novas tecnologias para construir uma base sólida em Sistemas de Informação:  
 
-* 🎀 **Programming Languages:** Python, JavaScript, Java, C++  
-* 🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
-* ✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, AI, Networking  
+🎀 **Programming Languages:** Python, JavaScript, Java, C++  
+🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
+✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, AI, Networking  
 
 ---
 
@@ -32,11 +34,11 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 
 Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:  
 
-- 🎀 **Design Gráfico** (Canva, Photoshop básico, Figma)  
-- 🌸 **Identidade Visual** para projetos e eventos  
-- ✨ **Infográficos, tabelas e layouts fofos** para deixar o conteúdo acessível e agradável  
+🎀 **Design Gráfico** (Canva, Photoshop básico, Figma)  
+🌸 **Identidade Visual** para projetos e eventos  
+✨ **Infográficos, tabelas e layouts fofos** para deixar o conteúdo acessível e agradável  
 
-### 🌷 Exemplinho de Tabela Fofa:  
+### 🌷 Exemplinho de Tabela Fofa  
 
 | 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
 |------------------|-----------------------|---------|
@@ -48,12 +50,18 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 
 ## ˚₊· ͟͟͞͞➳❥ Badges ✦  
 
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  ![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
+![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
 
 ---
 
 ## ˚₊· ͟͟͞͞➳❥ Contact & Connections  
 
-* 📖 **Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)  
-* 💌 **Email:** fragosoamabile2017@gmail.com  
+📖 **Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)  
+💌 **Email:** fragosoamabile2017@gmail.com  
 
+</div>
