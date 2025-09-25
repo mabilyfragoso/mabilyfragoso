@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 𐙚 Amabile Fragoso 𐙚 🎀  
+#  𐙚 Amabile Fragoso 𐙚   
 ### ˚ ༘♡ ⋆｡ Estudante de Sistemas de Informação ⋆｡♡ ༘ ˚
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=100&color=ff8da2&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+c%C3%B3digo;Explorando+o+universo+da+programa%C3%A7%C3%A3o;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
