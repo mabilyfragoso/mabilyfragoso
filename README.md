@@ -35,8 +35,7 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 🎀 **Design Gráfico** (Canva, Figma)  
 🌸 **Identidade Visual** para projetos e eventos  
 ✨ **Infográficos, tabelas e layouts** para deixar o conteúdo acessível e agradável  
-
-### 🌷 Exemplinho de Tabela Fofa  
+ 
 
 | 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
 |------------------|-----------------------|---------|
