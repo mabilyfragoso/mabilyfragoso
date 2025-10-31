@@ -30,7 +30,7 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 
 ## ˚₊· ͟͟͞͞➳❥ Design & Creative Side  
 
-Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:  
+Além de tecnologia, também amo dar um toque criativo nos meus projetos :  
 
 🎀 **Design Gráfico** (Canva, Figma)  
 🌸 **Identidade Visual** para projetos e eventos  
