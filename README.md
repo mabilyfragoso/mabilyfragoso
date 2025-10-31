@@ -12,7 +12,7 @@
 ![banner](https://github.com/user-attachments/assets/643868aa-3033-4e10-b52b-7c18362ca98a)
 
 💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆!  
-Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender ✨  
+Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender   
 
 </div>
 
@@ -22,7 +22,7 @@ Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por 
 
 Estou sempre explorando e aprendendo novas tecnologias para construir uma base sólida em Sistemas de Informação:  
 
-🎀 **Programming Languages:** Python, JavaScript, Java, C++  
+🎀 **Programming Languages:** Python, JavaScript, C++  
 🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
 ✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, AI, Networking  
 
@@ -40,7 +40,7 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 | 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
 |------------------|-----------------------|---------|
 | **Design**       | Canva · Figma         | ★★★★☆  |
-| **Programação**  | Python · JS · Java    | ★★★☆☆  |
+| **Programação**  | Python · JS           | ★★★☆☆  |
 | **Docs**         | LaTeX · Office Suite  | ★★★★☆  |
 
 ---
@@ -48,7 +48,7 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 ## ˚₊· ͟͟͞͞➳❥ Badges ✦  
 
 ![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-fcc5d8?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ff8da2?style=for-the-badge&logo=coffeescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-ffcce1?style=for-the-badge&logo=html5&logoColor=black)  
 ![CSS3](https://img.shields.io/badge/CSS3-ff9ecb?style=for-the-badge&logo=css3&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-ffbcd9?style=for-the-badge&logo=figma&logoColor=black)  
 
 ---
@@ -56,6 +56,6 @@ Além de tecnologia, também amo dar um toque criativo nos meus projetos ✨:
 ## ˚₊· ͟͟͞͞➳❥ Contact & Connections  
 
 📖 **Lattes:** [http://lattes.cnpq.br/1558039892911902](http://lattes.cnpq.br/1558039892911902)  
-💌 **Email:** fragosoamabile2017@gmail.com  
+
 
 </div>
