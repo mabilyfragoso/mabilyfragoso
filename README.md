@@ -12,15 +12,13 @@
 ![banner](https://github.com/user-attachments/assets/643868aa-3033-4e10-b52b-7c18362ca98a)
 
 💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆!  
-Eu sou a **Amabile**, estudante de **Sistemas de Informação**, apaixonada por criar e aprender   
+Eu sou a **Amabile**, estudante de **Sistemas de Informação**.  
 
 </div>
 
 <div align="center">
   
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools
-
-Estou sempre explorando e aprendendo novas tecnologias para construir uma base sólida em Sistemas de Informação:  
 
 🎀 **Programming Languages:** Python, JavaScript, C++  
 🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
@@ -29,8 +27,6 @@ Estou sempre explorando e aprendendo novas tecnologias para construir uma base s
 ---
 
 ## ˚₊· ͟͟͞͞➳❥ Design & Creative Side  
-
-Além de tecnologia, também amo dar um toque criativo nos meus projetos :  
 
 🎀 **Design Gráfico** (Canva, Figma)  
 🌸 **Identidade Visual** para projetos e eventos  
