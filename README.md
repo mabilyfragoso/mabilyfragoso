@@ -33,11 +33,11 @@ Eu sou a **Amabile**, estudante de **Sistemas de Informação**.  
 ✨ **Infográficos, tabelas e layouts** para deixar o conteúdo acessível e agradável  
  
 
-| 🌸 Área          | 🎀 Ferramentas        | ✨ Nível |
-|------------------|-----------------------|---------|
-| **Design**       | Canva · Figma         | ★★★★☆  |
-| **Programação**  | Python · JS           | ★★★☆☆  |
-| **Docs**         | LaTeX · Office Suite  | ★★★★☆  |
+| 🌸 Área          | 🎀 Ferramentas        | 
+|------------------|-----------------------|
+| **Design**       | Canva · Figma         | 
+| **Programação**  | Python · JS           | 
+| **Docs**         | LaTeX · Office Suite  | 
 
 ---
 
