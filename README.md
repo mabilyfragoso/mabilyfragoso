@@ -21,7 +21,9 @@ Eu sou a **Amabile**, estudante de **Sistemas de Informação**.  
 ## ˚₊· ͟͟͞͞➳❥ Technical Skills & Tools
 
 🎀 **Programming Languages:** Python, JavaScript, C++  
+
 🌸 **Concepts & Tools:** Programming Logic, Office Suite, HTML/CSS, LaTeX  
+
 ✨ **Current Interests:** Frontend Web Development, Data Analysis, UX/UI, AI, IHC  
 
 ---
