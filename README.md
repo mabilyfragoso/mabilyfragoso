@@ -14,7 +14,7 @@
 
 ## 💌 Hello! Welcome!
 
-Sou a **Amabile**, estudante de **Sistemas de Informação** apaixonada por tecnologia, design e aprendizado contínuo.
+Sou a **Amabile**, estudante de **Sistemas de Informação**.
 
 💗 Atualmente estudando:
 
