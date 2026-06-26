@@ -9,7 +9,7 @@
 
 🌸 *"A tecnologia é melhor quando aproxima as pessoas"* 🌸  
 
-![banner](https://github.com/user-attachments/assets/643868aa-3033-4e10-b52b-7c18362ca98a)
+<img width="1200" height="401" alt="b197f682f0d63f9db6d2a1c7d924c7be" src="https://github.com/user-attachments/assets/f590e32c-602e-4540-bda2-87017fc25f97" />
 
 💌 𝑯𝒆𝒍𝒍𝒐! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆!  
 Eu sou a **Amabile**, estudante de **Sistemas de Informação**.  
