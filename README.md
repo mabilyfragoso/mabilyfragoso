@@ -72,15 +72,19 @@ Sou a **Amabile**, estudante de **Sistemas de Informação**.
 
 ---
 
-<div align="center">
+
 
 # 📊 GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=rose_pine&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabilyfragoso&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabilyfragoso&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
+
+
 
 ---
 
