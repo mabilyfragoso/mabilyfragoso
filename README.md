@@ -72,11 +72,6 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
   <img src="https://img.shields.io/badge/▶%20Play%20on%20Spotify-ARIRANG-FF8DA2?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/🎵-ARIRANG-FFD6E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/BTS-FFB6D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Album-FFE4EF?style=flat-square"/>
 
 </div>
 
