@@ -31,7 +31,6 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 
 ## 🌷 Technologies
 
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFC1D9?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,20 +44,19 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 ![LaTeX](https://img.shields.io/badge/LaTeX-FFD3E5?style=for-the-badge&logo=latex&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FFB7D5?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mabilyfragoso&show_icons=true&hide_rank=true&theme=rose_pine&hide_border=true"/>
 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabilyfragoso&layout=compact&theme=rose_pine&hide_border=true"/>
 
-</div>
+
 
 ---
 
@@ -66,14 +64,14 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 
 ## 🎧 Currently Listening
 
-<div align="center">
+
 
 <a href="https://open.spotify.com/intl-pt/album/3ukkRHDHbN8tNRPKsGZR1h?si=zgiwvqwISWGZIp7xq0qlbw">
   <img src="https://img.shields.io/badge/▶%20Play%20on%20Spotify-ARIRANG-FF8DA2?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 
-</div>
+
 
 
 ---
