@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 # 𐙚 Amabile Fragoso 𐙚
@@ -10,108 +11,67 @@
 
 <img width="100%" src="https://github.com/user-attachments/assets/f590e32c-602e-4540-bda2-87017fc25f97"/>
 
+</div>
+
 ---
 
-## 💌 Hello! Welcome!
+## 💌 About Me
 
-Sou a **Amabile**, estudante de **Sistemas de Informação**.
+🎀 Olá! Eu sou a **Amabile**, estudante de **Sistemas de Informação**.
 
-💗 Atualmente estudando:
+Atualmente estudo e desenvolvo projetos nas áreas de:
 
-🌸 Desenvolvimento Web
+- 🌸 Desenvolvimento Web
+- 🌸 UX/UI Design
+- 🌸 Inteligência Artificial
+- 🌸 Ciência de Dados
+- 🌸 Interação Humano-Computador (IHC)
 
-🌸 UX/UI Design
+---
 
-🌸 Inteligência Artificial
+## 🌷 Technologies
 
-🌸 Ciência de Dados
+<div align="center">
 
-🌸 Interação Humano-Computador (IHC)
+![Python](https://img.shields.io/badge/Python-FFC1D9?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FFBCD9?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-FFC7DA?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FF9EC4?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFD6E8?style=for-the-badge&logo=figma&logoColor=black)
+
+![Canva](https://img.shields.io/badge/Canva-FFE2EE?style=for-the-badge&logo=canva&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-FFD3E5?style=for-the-badge&logo=latex&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFB7D5?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🌷 Technical Skills
-
-### 💻 Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
-
-### 🛠 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=figma,git,vscode" />
-
-**Outros conhecimentos**
-
-✨ Lógica de Programação
-
-✨ LaTeX
-
-✨ Microsoft Office
-
-✨ Canva
-
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-# 🎀 Creative Side
-
-| 🌸 Área | 💗 Ferramentas |
-|:------:|:---------------:|
-| Design | Canva • Figma |
-| Desenvolvimento | Python • JavaScript |
-| Documentação | LaTeX • Office |
-
-</div>
-
----
-
-
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabilyfragoso&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabilyfragoso&show_icons=true&theme=rose_pine&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabilyfragoso&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
-
-
 ---
 
-<div align="center">
-
-# 🌸 Technologies
-
-![Python](https://img.shields.io/badge/Python-FFC1D9?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-FF9EC4?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FFD0E5?style=for-the-badge&logo=figma&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-# 💌 Contact
+## 💌 Contact
 
 📖 **Currículo Lattes**
 
 http://lattes.cnpq.br/1558039892911902
 
-💗 Obrigada por visitar meu perfil!
+---
 
-*"Keep learning, keep creating and keep shining."* ✨
+<div align="center">
+
+🌸 *Keep learning, keep creating and keep shining.* ✨
 
 </div>
+```
