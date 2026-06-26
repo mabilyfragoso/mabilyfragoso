@@ -62,6 +62,27 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 
 ---
 
+## 🎧 Currently Listening
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪-Now%20Playing-FFB6D9?style=for-the-badge"/>
+
+### 💗 ARIRANG — BTS
+
+*"Music that inspires me while I study and code."* 🌸
+
+🎵 Album: **ARIRANG**
+
+💜 Artist: **BTS**
+
+<a href="https://open.spotify.com/intl-pt/album/3ukkRHDHbN8tNRPKsGZR1h?si=zgiwvqwISWGZIp7xq0qlbw">
+<img src="https://img.shields.io/badge/Listen%20on%20Spotify-FF8DA2?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+---
+
 ## 💌 Contact
 
 📖 **Currículo Lattes**
