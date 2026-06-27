@@ -87,6 +87,7 @@ http://lattes.cnpq.br/1558039892911902
 <div align="center">
 
 🌸 *Keep learning, keep creating and keep shining.* ✨
+![](https://komarev.com/ghpvc/?username=mabilyfragoso&color=ff8da2&style=for-the-badge)
 
 </div>
 
