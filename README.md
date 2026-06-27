@@ -7,8 +7,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=2500&pause=800&color=FF8DA2&center=true&vCenter=true&width=700&lines=Dream+like+you're+free+🌸;Technology+connects+people+💻;Keep+learning+and+never+stop+exploring+✨" />
 
-> 🌸 *"A tecnologia é melhor quando aproxima as pessoas."*
-
 <img width="100%" src="https://github.com/user-attachments/assets/f590e32c-602e-4540-bda2-87017fc25f97"/>
 
 </div>
@@ -17,7 +15,7 @@
 
 ## 💌 About Me
 
-🎀 Olá! Eu sou a **Amabile**, estudante de **Sistemas de Informação**.
+Olá! Eu sou a **Amabile**, estudante de **Sistemas de Informação**.
 
 Atualmente estudo e desenvolvo projetos nas áreas de:
 
