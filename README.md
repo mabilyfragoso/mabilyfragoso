@@ -39,16 +39,6 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 ![Git](https://img.shields.io/badge/Git-FFB7D5?style=for-the-badge&logo=git&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&theme=rose_pine&hide_border=true"/>
-
-
-
----
 
 ---
 
