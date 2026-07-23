@@ -44,7 +44,7 @@ Atualmente estudo e desenvolvo projetos nas áreas de:
 ## 📊 GitHub Stats
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabilyfragoso&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&theme=rose_pine&hide_border=true"/>
 
 
 
