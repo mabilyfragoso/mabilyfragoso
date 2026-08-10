@@ -85,9 +85,7 @@
 
 <div align="center">
 
----
-
-### 🎧 𓏸 𝅄 ┆ Current Mood
+## 🎧 𓏸 𝅄 ┆ Current Mood
 
 ```text
 ♫ 𝅄 𝆬   now playing: k-pop & lofi aesthetic   ┆   1:23 ─── ☕ ─── 3:45   ↻ 𝄍
