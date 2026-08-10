@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header estilo Banner Y2K / Pastel -->
-<img src="https://github.com/user-attachments/assets/f590e32c-602e-4540-bda2-87017fc25f97" width="100%" alt="Header Banner" />
+<img width="1200" height="400" alt="89946c855c0a9dd37139c967bfaa2ca8" src="https://github.com/user-attachments/assets/3e129448-9369-4052-b334-8bf9b5966ef6" />
 
 <br/>
 
@@ -82,9 +82,5 @@
 </table>
 
 <br/>
-<div align="center">
+![Uploading 89946c855c0a9dd37139c967bfaa2ca8.jpg…]()
 
-` 🎧 BTS — Mikrokosmos `
-
-```text
-♫ 𝅄 𝆬   0:42  ───⚪───────────  3:45   ↻  ◀  ❚❚  ▶
