@@ -84,7 +84,6 @@
 ### 🧸 Featured Projects & Research
 
 * 📄 **Research:** *A Monitoria como Curadoria e Síntese do Conhecimento* (Presented at XXX Semana Universitária UECE).
-* 🌸 **Eu Crio, Eu Posso:** Educational platform proposal stimulating creative and scientific interests in children.
 * 🏡 **Alugarzin:** Real estate web application front-end featuring interactive search modals and intuitive UI.
 
 </td>
