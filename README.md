@@ -10,15 +10,6 @@
 
 ` 🌸 Information Systems Student ` ┆ ` 🎀 UX/UI Designer ` ┆ ` ☁️ Front-end Developer `
 
-<br/>
-
-<!-- Botões de Contato / Links em estilo Pílula Pastel -->
-[![](https://img.shields.io/badge/📧_Email-amabile@example.com-ffc0cb?style=for-the-badge&logoColor=333)](#)
-[![](https://img.shields.io/badge/🐙_GitHub-maablyys-e8c5e5?style=for-the-badge&logo=github&logoColor=333)](https://github.com/maablyys)
-[![](https://img.shields.io/badge/🎓_Lattes-Curriculum-d4f0f0?style=for-the-badge&logo=google-scholar&logoColor=333)](http://lattes.cnpq.br/1558039892911902)
-
-<br/>
-
 ─── ⋆⋅☆⋅⋆ ───
 
 </div>
