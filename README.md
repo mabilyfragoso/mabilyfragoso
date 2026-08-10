@@ -6,7 +6,6 @@
 <br/>
 
 # ✦  ` 𝓗𝓮𝓵𝓵𝓸! `  ✦
-### *I'm Amabile Fragoso*
 
 ` 🌸 Information Systems Student ` ┆ ` 🎀 UX/UI Designer ` ┆ ` ☁️ Front-end Developer `
 
