@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Banner Minimalista com GIF/Imagem Decorativa -->
+<!-- Banner / Header -->
 <img src="https://github.com/user-attachments/assets/f590e32c-602e-4540-bda2-87017fc25f97" width="100%" alt="Header" />
 
 <br/>
 
 # 𝅄⠀⠀⠀ 𝆬 ⠀ ⠀⬭⠀⠀ㅤׂ Amabile ׂ⠀ ⠀⬭⠀⠀𝆬 ⠀⠀⠀𝅄
 
-*Sistemas de Informação ┆ Front-end & UX/UI*
+*Information Systems ┆ Front-end & UX/UI*
 
 <br/>
 
-` 🌸 web dev ` ㅤ ` 🎀 ux/ui ` ㅤ ` ☁️ ihc ` ㅤ ` ☕ data science `
+` 🌸 web dev ` ㅤ ` 🎀 ux/ui ` ㅤ ` ☁️ hci ` ㅤ ` ☕ data science `
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 > *“Dream like you're free, keep learning and never stop exploring.”* ✨
 
-Olá! Eu sou a **Amabile**. Apaixonada por criar interfaces intuitivas, design e tecnologia. 
+Hi! I'm **Amabile**. Passionate about creating intuitive interfaces, design, and technology.
 
-* 𓈒 ݁ **Curso:** Sistemas de Informação
-* 𓈒 ݁ **Foco:** Desenvolvimento Front-end & UX/UI Design
-* 𓈒 ݁ **Interesses:** Interação Humano-Computador, IA e Ciência de Dados
+- 𓈒 *Major:* Information Systems
+- 𓈒 *Focus:* Front-end Development & UX/UI Design
+- 𓈒 *Interests:* Human-Computer Interaction, AI & Data Science
 
 <br/>
 
@@ -41,7 +41,6 @@ Olá! Eu sou a **Amabile**. Apaixonada por criar interfaces intuitivas, design e
 
 <div align="center">
 
-<!-- Shields minimalistas, transparentes e em tom pastéis bem suaves -->
 <img src="https://img.shields.io/badge/Python-fff0f5?style=flat&logo=python&logoColor=333" />
 <img src="https://img.shields.io/badge/JavaScript-fff0f5?style=flat&logo=javascript&logoColor=333" />
 <img src="https://img.shields.io/badge/C++-fff0f5?style=flat&logo=cplusplus&logoColor=333" />
