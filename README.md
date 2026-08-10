@@ -82,10 +82,9 @@
 </table>
 
 <br/>
-
 <div align="center">
 
-## 🎧 𓏸 𝅄 ┆ Current Mood
+` 🎧 BTS — Mikrokosmos `
 
 ```text
-♫ 𝅄 𝆬   now playing: k-pop & lofi aesthetic   ┆   1:23 ─── ☕ ─── 3:45   ↻ 𝄍
+♫ 𝅄 𝆬   0:42  ───⚪───────────  3:45   ↻  ◀  ❚❚  ▶
