@@ -36,16 +36,22 @@
 `2023 - Present`
 
 <br/>
-
 ### 💻 Softwares & Tools
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <!-- Figma: Usando o Rosa Claro dos botões superiores -->
+  <img src="https://img.shields.io/badge/Figma-ffc0cb?style=flat-square&logo=figma&logoColor=333" alt="Figma Pastel" />
+  <!-- Python: Usando o Roxo Claro dos botões superiores -->
+  <img src="https://img.shields.io/badge/Python-e8c5e5?style=flat-square&logo=python&logoColor=333" alt="Python Pastel" />
+  <!-- JavaScript: Usando o Ciano Claro dos botões superiores -->
+  <img src="https://img.shields.io/badge/JavaScript-d4f0f0?style=flat-square&logo=javascript&logoColor=333" alt="JavaScript Pastel" />
+  <!-- HTML5: Novo tom Pastel (Laranja Claro Suave) -->
+  <img src="https://img.shields.io/badge/HTML5-ffd8be?style=flat-square&logo=html5&logoColor=333" alt="HTML5 Pastel" />
+  <!-- CSS3: Novo tom Pastel (Azul Bebê Suave) -->
+  <img src="https://img.shields.io/badge/CSS3-d4e2f0?style=flat-square&logo=css3&logoColor=333" alt="CSS3 Pastel" />
+  <!-- C++: Novo tom Pastel (Verde Menta Suave) -->
+  <img src="https://img.shields.io/badge/C++-e2f0cb?style=flat-square&logo=cplusplus&logoColor=333" alt="C++ Pastel" />
+  <!-- Git: Novo tom Pastel (Rosa Choque Suave) -->
+  <img src="https://img.shields.io/badge/Git-fce4ec?style=flat-square&logo=git&logoColor=333" alt="Git Pastel" />
 </p>
 
 <br/>
@@ -60,8 +66,7 @@
 ### 🌐 Languages
 * **Portuguese:** Native
 * **English:** Advanced
-* **Korean:** Intermediate
-* **Mandarin:** Basic
+* **Korean:** Basic
 
 </td>
 
@@ -78,11 +83,6 @@
 * Managing digital presence, social media growth strategies, and graphic content creation.
 
 <br/>
-
-### 🧸 Featured Projects
-
-* 🌸 **Eu Crio, Eu Posso:** Educational platform proposal stimulating creative and scientific interests in children.
-* 🏡 **Alugarzin:** Real estate web application front-end featuring interactive search modals and intuitive UI.
 
 </td>
 </tr>
