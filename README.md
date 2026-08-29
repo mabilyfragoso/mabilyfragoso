@@ -1,13 +1,20 @@
 <div align="center">
 
 <!-- Header estilo Banner Y2K / Pastel -->
-<img width="1200" height="400" alt="89946c855c0a9dd37139c967bfaa2ca8" src="https://github.com/user-attachments/assets/3e129448-9369-4052-b334-8bf9b5966ef6" />
+<img width="1200" height="400" alt="Banner" src="https://github.com/user-attachments/assets/3e129448-9369-4052-b334-8bf9b5966ef6" />
 
 <br/>
 
 # ✦  ` 𝓗𝓮𝓵𝓵𝓸! `  ✦
 
 ` 🌸 Information Systems Student ` ┆ ` 🎀 UX/UI Designer ` ┆ ` ☁️ Front-end Developer `
+
+<br/>
+
+<!-- Contador de Visualizações -->
+<img src="https://komarev.com/ghpvc/?username=Mablys&color=ffc0cb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/>
 
 ─── ⋆⋅☆⋅⋆ ───
 
@@ -81,5 +88,15 @@
 </table>
 
 <br/>
-![Uploading 89946c855c0a9dd37139c967bfaa2ca8.jpg…]()
 
+<!-- Seção de Estatísticas e Métricas -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mablys&show_icons=true&title_color=d884a4&icon_color=d884a4&text_color=555&bg_color=fff0f5&hide_border=true" alt="Estatísticas Gerais" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&title_color=d884a4&text_color=555&bg_color=fff0f5&hide_border=true" alt="Linguagens Mais Usadas" />
+</p>
+
+</div>
