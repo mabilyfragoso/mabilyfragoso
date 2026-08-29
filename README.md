@@ -84,6 +84,8 @@
 
 * 📄 **Research:** *A Monitoria como Curadoria e Síntese do Conhecimento* (Presented at XXX Semana Universitária UECE).
 * 🏡 **Alugarzin:** Real estate web application front-end featuring interactive search modals and intuitive UI.
+<br/>
+<img width="736" height="736" alt="9793e172a7e81db083fd88412b778939" src="https://github.com/user-attachments/assets/1b10a688-e101-424e-9ebb-75856c805bf7" />
 
 </td>
 </tr>
