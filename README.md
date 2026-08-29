@@ -88,15 +88,12 @@
 </table>
 
 <br/>
-
 <!-- Seção de Estatísticas e Métricas -->
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mablys&show_icons=true&title_color=d884a4&icon_color=d884a4&text_color=555&bg_color=fff0f5&hide_border=true" alt="Estatísticas Gerais" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&title_color=d884a4&text_color=555&bg_color=fff0f5&hide_border=true" alt="Linguagens Mais Usadas" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mablys&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
