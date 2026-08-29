@@ -53,8 +53,7 @@
 ` HCI Research ` ` Digital Inclusion `  
 
 <br/>
-<img width="735" height="670" alt="9f43695e271847848de5d33a3560d2b4" src="https://github.com/user-attachments/assets/57edc398-1b63-4272-babf-d22262c13893" />
-
+<img width="735" height="878" alt="41dfb97ad24b998108093e0766a81fbe" src="https://github.com/user-attachments/assets/f69618f1-a518-4597-895b-32904949dc19" />
 <bn/>
 
 ### 🌐 Languages
