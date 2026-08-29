@@ -93,7 +93,6 @@
 
 ### 📊 GitHub Stats
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mablys&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mablys&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mablys&theme=soft-rose&hide_border=true" alt="Streak Stats" />
 
 </div>
