@@ -90,9 +90,6 @@
 <br/>
 <!-- Seção de Estatísticas e Métricas -->
 <div align="center">
-
-### 📊 GitHub Stats
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mablys&theme=soft-rose&hide_border=true" alt="Streak Stats" />
 
 </div>
